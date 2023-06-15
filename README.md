@@ -14,11 +14,12 @@ You can visit https://www.sumatrapdfreader.org/free-pdf-reader to download the p
 
 ---------------
 Requirement
+----------------
 Windows 7 to 10.
 Printer driver . Create multiple printer driver than custom the printer driver to fit your need. and this can be use to print with custom option. You can modify the source code to include the printer name
 a working printer
 Imagick Tool - convert,mogrify
 .NET 4.0+
----------------
+
 # Note
 This program is quite old and not intended to be succesfully build and run on different computer. I only develop and run it on my own computer which i already installed the required software and custom setting based on my possible use. But you can modify it yourself and build it your own to make sure it work.
