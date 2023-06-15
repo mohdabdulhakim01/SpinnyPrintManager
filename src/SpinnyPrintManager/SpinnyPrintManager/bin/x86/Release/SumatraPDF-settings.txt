@@ -1,0 +1,2061 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-3-1.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+TabWidth = 300
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	HideScrollbars = false
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 702 40 671 728
+ShowToc = true
+SidebarDx = 341
+TocDy = 0
+TreeFontSize = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\9493175\Resit Aziq.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3087009\photo1642148811.jpeg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -0.590397
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\826472\REPORT PROJECT_DKM5C_ GROUP 1 DIPLOMA(JKM) (1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 28.6872
+		PageNo = 43
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\793562\logbook project 2-muhammad luqman.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2381734\REPORT_PROJECT2_F1044_F1060_F1038.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 144.501
+		PageNo = 93
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5996431\LABEL.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6344868\Receipt.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1738563\Experiment 5 REACTIONS OF A CONTINUOUS BEAM.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 561.933
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3224791\suratmohonli_20DDT19F1085.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1712909\case study MEM-converted.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8166078\mk2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8486155\WhatsApp Image 2021-12-19 at 10.33.20 PM.jpeg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -0.331327 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4323386\Doc1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5176113\myBSN - - Bank Simpanan Nasional.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5176113\Print_Ticket_fef33e29-b8d3-4490-9c86-9666a59a54e9_CJCZTIUQ.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 337.177
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3520586\P4T10-Table-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3520586\P4T10-RS (S&M)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 684.322
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6140946\P4T10-RS (S&M)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6140946\P4T10-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 769.053
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8579043\P4T9-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8579043\P4T9-RS(COO)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 292.441
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8579043\P4T9-RS(CFO)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 330.099
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8579043\P4T9-MOM-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 724.953
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5871235\P4T8-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5179726\P4T6-REPORT-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 648.642
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5179726\P4T6-RS(IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6890449\P4T5-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6890449\P4T5-RS(HR)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 654.902
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6890449\P4T5-RS (FM)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5449919\P4T4-RS(COO)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 511.33
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3142863\P4T3-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1049100\P4T2-RS (FM)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 597.237
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1049100\P4T2-RS (IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2056762\Document 17.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 477.239
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3631934\CHAPTER 3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 5.63153
+		PageNo = 11
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3631934\CHAPTER 4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\3631934\Basic Maths 1 (DIS 2017).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2695376\PRACTICAL TASK 3 - MACHINING SESI 1 2021_2022.docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 3.12755
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\9385302\PRACTICAL TASK 2- FOUNDRY-SESI 1 2021_2022.doc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4753479\Report CNC Milling Machines (Chairel Danny_F1011).docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4753479\5_6079922585724781690.docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4352607\Cover Letter- PMU (1).docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2814654\Acceptance Form RHEMA AYUH.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\61405\DCC20063 FW1 I_21_22.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 3.12874
+		PageNo = 14
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6614414\SmithChart.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7592434\PRACTICAL TASK 3 - MACHINING SESI 1 2021_2022.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1651795\EXP4-SPEED OF DC GENERATOR.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6353122\5_6052977008881697955.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1862808\5_6079922585724781690.docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1167306\5_6079922585724781690.docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\792266\5_6079922585724781690.docx.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8466566\MOHD YAZID BIN MOHAMAD HUSAINI (20DKM19F1903).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 733.71
+		PageNo = 6
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8466566\DJJ40142 PRACTICAL TASK YAZID.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5153468\WhatsApp Image 2021-11-25 at 3.40.53 PM.jpeg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -0.530694
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5153468\passport asyraf - Copy.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\716432\I. SESI II 2021 2022 BORANG PENDAFTARAN KURSUS LI-V.2-latest Page 5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 818.856
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7894871\Practical Exercise 2_2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5568348\Practical Exercise 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5410122\MyDoc 20_18_00.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1369676\New DOCX Document.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4288720\MyDoc 20_15_50.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4288720\MyDoc 20_18_00.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2436746\5_6285311001311052746.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\4928148\5_6285311001311052746.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7346367\5_6100360509725344843 (1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2049207\PRACTICAL TASK 2- FOUNDRY-SESI 1 2021_2022.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 262.679
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2049207\ff.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 185.247
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1704501\P1T3-RS-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1704501\P1T5-Letter-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 702 40 671 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\1704501\P1T4-IM-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 103.208
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T5-RS(COO)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 279.496
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T5-RS(CFO)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 285.38
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T4-MEMO(M&S)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T4-MEMO(IT)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T4-MEMO(C&A)-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T3-RS-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 441.897
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7464525\P1T3-Memo-Muhd. Razin Muazzam bin Sazali.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T5-RS-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 790.236
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T5-RS(COO)-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 446.604
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T5-RS(CFO)-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T5-Envelope-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T4-IM-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T3-RS-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\224616\P1T3-Memo-Matteus Rangkong anak Kak.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\5403011\LAB ACTIVITY 3.2- CONSTRUCT THE JSP FILE IN WEB APPLICATION.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2887632\borang tukar tajuk.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2887632\LAB ACTIVITY 3.2- CONSTRUCT THE JSP FILE IN WEB APPLICATION.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 262.01
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\2887632\Report Project.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 224.555
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7150298\I. SESI II 2021 2022 BORANG PENDAFTARAN KURSUS LI-V.2-latest - Copy (3).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\7274999\I. SESI II 2021 2022 BORANG PENDAFTARAN KURSUS LI-V.2-latest - Copy.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\8589264\I. SESI II 2021 2022 BORANG PENDAFTARAN KURSUS LI-V.2-ORI.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 383.431
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\x86\Release\print-order-set\6280524\Topic 3.1 Event Handling.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\04 LAB WORK 3F2F PROCEDURE DEP40053.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\04 LAB WORK 1F2F PROCEDURE DEP40053.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\04 LAB WORK 2F2F PROCEDURE DEP40053.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\04 LAB WORK 4F2F PROCEDURE DEP40053.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = true
+		SidebarDx = 341
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\CamScanner 11-08-2021 13.51.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\xx\WhatsApp Image 2021-11-07 at 9.55.37 PM.jpeg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -0.766558
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\pandaleader\Downloads\BANK ISLAM.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 402 40 562 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 576
+
+# Settings after this line have not been recognized by the current version

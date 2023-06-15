@@ -1,0 +1,16 @@
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\Debug\SpinnyPrintManager.exe.config
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\Debug\SpinnyPrintManager.exe
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\bin\Debug\SpinnyPrintManager.pdb
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\SpinnyPrintManager.csprojResolveAssemblyReference.cache
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\SpinnyPrintManager.csproj.GenerateResource.Cache
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\SpinnyPrintManager.exe
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\SpinnyPrintManager.pdb
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.loading.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.infodialog.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.flip_paper.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.print_info.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.print_monitor.resources
+C:\Users\pandaleader\Documents\Visual Studio 2012\Projects\SpinnyPrintManager\SpinnyPrintManager\obj\Debug\WindowsFormsApplication1.posterprinter.resources
