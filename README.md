@@ -1,6 +1,6 @@
 # SpinnyPrintManager
 Simple print service manager for Student Printing Business
-This system is made by myself when I start my small for fun printing business when I'm still at the hostel to help other to print their work.
+This system is develop when I start my small for fun printing business when I'm still at the hostel to help other to print their work.
 This system split with two mode which is regular printing which can print batch of document and also included duplex mode which support cheap printer that do not support duplex mode.
 The second mode is poster maker which able to split image to 2x2 or 4x4 picture to make large poster when combined together after printed.
 You can also check your printing history and total money you get from printing services.
